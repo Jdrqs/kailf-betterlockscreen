@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=ArcoLinux Betterlockscreen
+Name=KailfLinux Betterlockscreen
 GenericName=Betterlockscreen
 X-GNOME-FullName=Betterlockscreen
 Comment=Change the image for the lockscreen
-Exec=/usr/local/bin/arcolinux-betterlockscreen
+Exec=/usr/local/bin/kailflinux-betterlockscreen
 Icon=Betterlockscreen
 Terminal=false
 Type=Application
